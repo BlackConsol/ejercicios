@@ -1,18 +1,18 @@
 # Bienvenido
 
-Welcome to the java project
-a basic project of 3 codes 
-with logic, I hope you like them
+Bienvenido al proyecto de java 
+con los ejercicios necesarios
+con logica, espero que les guste
 
 # Contenidos
 
-This repository contains 3 basic exercises.
+Este repositorio incluye 2 elementos
 
-1. Sum of grades and average
+1. Suma de promedio de notas
 
-2. Distance between x, y axes
+2. nombres y impresiones de letras finales
 
-3. Color combination and arrangement
+
 
 # Carpetas y archivos 📁
 
