@@ -32,14 +32,14 @@ Este repositorio incluye 2 elementos
 │   └── 📋
 └── 📋
 
-# Tools needed
+# Herramientas necesitadas
 
 
 Para hacer este repositorio necesitas las siguientes herramientas que hace funcional al repositorio
 📁Herramientas
 ├──JDK
 ├── Git
-│   ├── Visual Studio COde
+│   ├── Visual Studio Code
 
 
 # Instalacion de herramientas
