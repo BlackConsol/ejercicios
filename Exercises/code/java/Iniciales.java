@@ -32,7 +32,7 @@ public class Iniciales {
             System.out.print("Ingrese su segundo apellido: ");
             String apellido2 = scanner.next();
             
-            // Obtener y mostrar iniciales con formato "J.P.L."
+            // Obtener y mostrar iniciales con formato "."
             String iniciales = nombre1.charAt(0) + "." + nombre2.charAt(0) + "." + apellido1.charAt(0) + "." + apellido2.charAt(0) + ".";
             System.out.println("Sus iniciales son: " + iniciales.toUpperCase());
         }
